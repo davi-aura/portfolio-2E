@@ -19,6 +19,7 @@ testar_operacao_soma()
 def subtrair (valor_principal, acrescimo):
     return valor_principal - acrescimo
 
+# Quem leu, reprovou de ano
 
 def testar_operacao_subtrair():
     # Arrange
